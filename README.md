@@ -93,6 +93,8 @@ kubectl port-forward service/monitoring-grafana 8080:80 -n monitoring
 
 ## Diagram
 
+(https://github.com/smit343/Observability-Systems-project-8/assets/60944678/6a383f90-f4a3-4a61-9f6d-f50a68b6963c)
+
 
 ## Authors
 
